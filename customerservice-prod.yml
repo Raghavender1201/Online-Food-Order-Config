@@ -1,7 +1,7 @@
 build:
   version: 1.2
 customer:
-  message: "Welcome to Online Food Ordering System Production Environment"
+  message: "Welcome to Online Food Ordering System Prod Environment"
   contactdetails:
     name: raghuprod
     mobilenumber: 1111111111
