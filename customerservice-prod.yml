@@ -1,8 +1,8 @@
 build:
   version: 1.2
 customer:
-  message: "Welcome to Online Food Ordering System"
+  message: "Welcome to Online Food Ordering System docker prod Environment"
   contactdetails:
     name: raghuprod
     mobilenumber: 1111111111
-    email: raghupatelcustomerprod@gmail.com
+    email: "{cipher}0f605d332c617a72d750db2c7d31fa27f797c40c5ae64dfd2202ee7a02432d5ad1507cbde05db2b4f3e19365c965954533bae63918a81bf3be6780ec104e4806"
